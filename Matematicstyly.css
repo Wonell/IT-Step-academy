@@ -1,0 +1,42 @@
+
+main {
+
+}
+
+h1 {
+    color: black;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2,h3 {
+    font-size: 16px;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align-last: center;
+}
+
+.vzorec {
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    background-color: rgb(252, 177, 186);
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+
+div {
+    background-color:rgb(240, 240, 240);
+    padding: 50px;
+}
+
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px;
+}
