@@ -1,0 +1,35 @@
+
+main {
+    background-color: #F6F6F6;
+}
+h1 {
+    color: black;
+    text-align:left;
+  font: size 60px;
+  font-weight: bold;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div {
+    padding: 50px;
+    background-color: #F6F6F6;
+}
+
+sup {
+    font-weight:bold;
+    color:blue
+}
+
+body {
+    margin: 100px;
+    padding: 50px;
+    border-color: #F6F6F6;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+footer {
+    font-size: x-small;
+}
+section {
+    font-size: medium;
+}
